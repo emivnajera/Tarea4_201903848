@@ -1,0 +1,68 @@
+[
+  {
+    "nombre": "Emiliano Velasquez",
+    "edad": 20,
+    "activo": true,
+    "saldo": 51.26
+  },
+  {
+    "nombre": "Gabriela Salazar",
+    "edad": 19,
+    "activo": false,
+    "saldo": 44.89
+  },
+    {
+    "nombre": "Lisa Dardon",
+    "edad": 16,
+    "activo": false,
+    "saldo": 32.45
+  },
+    {
+    "nombre": "Ricardo Velasquez",
+    "edad": 54,
+    "activo": false,
+    "saldo": 51.47
+  },
+    {
+    "nombre": "Wendy Najera",
+    "edad": 50,
+    "activo": false,
+    "saldo": 65.23
+  },
+    {
+    "nombre": "Bianka Najera",
+    "edad": 24,
+    "activo": false,
+    "saldo": 78.45
+  },
+    {
+    "nombre": "Jose Badia",
+    "edad": 39,
+    "activo": false,
+    "saldo": 95.62
+  },
+    {
+    "nombre": "Eduardo Espinoza",
+    "edad": 35,
+    "activo": false,
+    "saldo": 45.26
+  },
+    {
+    "nombre": "Mario Capistran",
+    "edad": 32,
+    "activo": false,
+    "saldo": 23.56
+  },
+    {
+    "nombre": "Kevin Najera",
+    "edad": 21,
+    "activo": false,
+    "saldo": 15.69
+  },
+    {
+    "nombre": "Luisa Marmol",
+    "edad": 18,
+    "activo": false,
+    "saldo": 5.467
+  }
+]
